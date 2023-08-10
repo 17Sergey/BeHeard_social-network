@@ -1,4 +1,4 @@
-export default {
+{
     users: [
         { id: 1, isFriend: false, fullname: "Sergey Kachaliuk", avatarUrl: "https://cdn3.iconfinder.com/data/icons/avatars-9/145/Avatar_Penguin-512.png", status: "Let your dreams come true", location: { city: "Brest", country: "Belarus" } },
         { id: 2, isFriend: true, fullname: "Nikolay Ilyin", avatarUrl: "https://cdn-icons-png.flaticon.com/512/3382/3382653.png", status: "Gonna cry?", location: { city: "Grodno", country: "Belarus" } },
